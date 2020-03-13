@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-03-12 15:11:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>29d7d50ddb07f3400b9d21c405961929</instance_id>
+        <instance_name>dev90305</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-03-12 15:11:35</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>81a237f42f274810294d5e492799b6c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sergejs.kizlo@swedbank.lv</sys_created_by>
+        <sys_created_on>2020-03-12 15:11:35</sys_created_on>
+        <sys_id>315bdc492fa74810294d5e492799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170cf4d02b30000001</sys_recorded_at>
+        <sys_updated_by>sergejs.kizlo@swedbank.lv</sys_updated_by>
+        <sys_updated_on>2020-03-12 15:11:35</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>b95bdc4961a748107cd0dc1eb6eb055a</update_guid>
+        <update_guid_history>b95bdc4961a748107cd0dc1eb6eb055a:1828161538,b55bdc4961a74810fbb5d5708ed19957:1429053012,755bdc499aa74810f98e10f630682e54:-1514400100,79a273707267481097bad7598e9e5020:0,12923f303a67481080b1746755a997b4:-1261009499,d2923f305f67481096f2a90f43d56eb0:-1701966180,92923f303d674810eb474df60bd439ad:736548692,52923f301067481094a2bb879cfb49aa:833312879,040a0b60c7ab0810de3243ce00d48b95:0,a9f947608bab0810ab1c9837a82cd98b:1040595258,6df9476039ab0810bdae6b6336aeb087:-1701966180,2df9476021ab0810c8127fa8e264f784:736548692,e9f9476027ab08107e1a9a91d4fa3c81:833312879,c96fb9a06be7081095ae777a5bf2bf1c:0,7e5ff5a02ee70810e11e378a66c30189:200552792,325ff5a002e70810d231d18ce2dce986:-1701966180,fe5ff5a00ce708105e5f66c4b0e46982:736548692,be5ff5a031e708102c50faf2ccb5277f:833312879,4201a054a1abc410edfb4aeded50cee5:0,0601a05482abc4105d3b5a0f14381aca:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sergejs.kizlo@swedbank.lv</sys_created_by>
+        <sys_created_on>2020-03-12 15:11:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>946b50892fa74810294d5e492799b6b5</sys_id>
+        <sys_metadata>946b50892fa74810294d5e492799b6b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">315bdc492fa74810294d5e492799b65b</sys_update_version>
+        <sys_updated_by>sergejs.kizlo@swedbank.lv</sys_updated_by>
+        <sys_updated_on>2020-03-12 15:11:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
